@@ -12,5 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d92e62ab27debc4abe92431fa25da74, type: 3}
   m_Name: PlayerInventory
   m_EditorClassIdentifier: 
-  Container: []
+  Container:
+  - item: {fileID: 11400000, guid: bdfea49ef8cb2634d981b736d4632773, type: 2}
+    amount: 8
+    ObjectType: 4
+    name: QuestItemGreen
+    Icon: {fileID: 21300000, guid: d41061999a3eea446a89fcf27cef9d92, type: 3}
+    ID: 2
+  - item: {fileID: 11400000, guid: bbfe860764848b646906477bd433ee6e, type: 2}
+    amount: 2
+    ObjectType: 4
+    name: QuestItemred
+    Icon: {fileID: 21300000, guid: 21cd559128de38a42b91a4fa2e3e8aae, type: 3}
+    ID: 1
   SavePath: /inventory.save

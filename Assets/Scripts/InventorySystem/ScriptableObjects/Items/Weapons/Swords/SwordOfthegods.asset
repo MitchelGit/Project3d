@@ -15,7 +15,6 @@ MonoBehaviour:
   Prefab: {fileID: 4808900484099188063, guid: 7d2ae5b2f9d6efc4c8b4404033c90536, type: 3}
   type: 3
   ItemName: sword
-  ItemIcon: {fileID: 21300000, guid: 9d7c6e4896067aa4fa512a00f692ac1c, type: 3}
-  ItemDescription: the sword of the godsthe sword of the godsthe sword of the godsthe
-    sword of the godsthe sword of the godsthe sword of the godsthe sword of the godsthe
-    sword of the godsthe sword of the godsthe sword of the godsthe sword of the gods
+  ItemIcon: {fileID: 21300000, guid: 2d260bd85e5c45747aa86cf3c0975908, type: 3}
+  ItemDescription: 'the sword of the godsthe sword of the godsthe sword of the godsthe
+    sword of the '
